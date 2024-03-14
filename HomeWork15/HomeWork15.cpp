@@ -7,7 +7,6 @@ void FindOddNumbers(int Limit, bool IsOdd)
 	{
 		std::cout << i + 1 << std::endl;
 	}
-
 }
 
 int main()
